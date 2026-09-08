@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Ejercicio 29/">
+    <Project Path="Puentes de Madison/Puentes de Madison.csproj" />
+  </Folder>
+  <Folder Name="/Ejercicio 36/">
+    <Project Path="Cosechando a caballo/Cosechando a caballo.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shered/Shered.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Cosechando a caballo": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
