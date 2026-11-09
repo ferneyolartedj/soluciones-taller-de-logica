@@ -1,0 +1,38 @@
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.exe
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.deps.json
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.runtimeconfig.json
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.dll
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.pdb
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Shered.dll
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Shered.pdb
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.csproj.AssemblyReference.cache
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.AssemblyInfoInputs.cache
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.AssemblyInfo.cs
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.csproj.CoreCompileInputs.cache
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.sourcelink.json
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechan.D15B7246.Up2Date
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.dll
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\refint\Cosechando a caballo.dll
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.pdb
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.genruntimeconfig.cache
+C:\Projects visual studio\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\ref\Cosechando a caballo.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.exe
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.deps.json
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.runtimeconfig.json
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Cosechando a caballo.pdb
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Shered.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\bin\Debug\net10.0\Shered.pdb
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.csproj.AssemblyReference.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.AssemblyInfoInputs.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.AssemblyInfo.cs
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.csproj.CoreCompileInputs.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.sourcelink.json
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechan.D15B7246.Up2Date
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\refint\Cosechando a caballo.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.pdb
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\Cosechando a caballo.genruntimeconfig.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Cosechando a caballo\obj\Debug\net10.0\ref\Cosechando a caballo.dll

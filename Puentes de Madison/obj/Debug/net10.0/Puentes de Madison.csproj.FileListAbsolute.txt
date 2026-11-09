@@ -1,0 +1,38 @@
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.exe
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.deps.json
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.runtimeconfig.json
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.pdb
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Shered.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Shered.pdb
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.csproj.AssemblyReference.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.AssemblyInfoInputs.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.AssemblyInfo.cs
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.csproj.CoreCompileInputs.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.sourcelink.json
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes .33C49BBB.Up2Date
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\refint\Puentes de Madison.dll
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.pdb
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.genruntimeconfig.cache
+C:\Projects visual studio\Taller-herencias-figuras-geometricas\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\ref\Puentes de Madison.dll
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.exe
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.deps.json
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.runtimeconfig.json
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.dll
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Puentes de Madison.pdb
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Shered.dll
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\bin\Debug\net10.0\Shered.pdb
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.csproj.AssemblyReference.cache
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.AssemblyInfoInputs.cache
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.AssemblyInfo.cs
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.csproj.CoreCompileInputs.cache
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.sourcelink.json
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes .33C49BBB.Up2Date
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.dll
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\refint\Puentes de Madison.dll
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.pdb
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\Puentes de Madison.genruntimeconfig.cache
+C:\Projects visual studio\soluciones del taller de logica\Puentes de Madison\obj\Debug\net10.0\ref\Puentes de Madison.dll
