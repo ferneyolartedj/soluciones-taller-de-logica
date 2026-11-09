@@ -1,0 +1,12 @@
+C:\Projects visual studio\logiconceps\Solution1\backend\bin\Debug\net10.0\backend.deps.json
+C:\Projects visual studio\logiconceps\Solution1\backend\bin\Debug\net10.0\backend.dll
+C:\Projects visual studio\logiconceps\Solution1\backend\bin\Debug\net10.0\backend.pdb
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.sourcelink.json
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.dll
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\refint\backend.dll
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\backend.pdb
+C:\Projects visual studio\logiconceps\Solution1\backend\obj\Debug\net10.0\ref\backend.dll

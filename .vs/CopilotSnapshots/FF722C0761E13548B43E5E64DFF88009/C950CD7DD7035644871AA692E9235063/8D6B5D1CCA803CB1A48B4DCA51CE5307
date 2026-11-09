@@ -1,0 +1,6 @@
+﻿namespace Frontend
+{
+    internal class listaDoble<T>
+    {
+    }
+}
